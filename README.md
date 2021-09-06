@@ -410,6 +410,22 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/beta`][@stdlib/random/base/beta]: beta distributed pseudorandom numbers.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -468,6 +484,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [arcsine]: https://en.wikipedia.org/wiki/Arcsine_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/beta]: https://github.com/stdlib-js/random-base-beta
+
+<!-- </related-links> -->
 
 </section>
 
