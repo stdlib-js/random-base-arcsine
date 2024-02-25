@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@deno/mod.js';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@v0.2.1-deno/mod.js';
 ```
 
 #### arcsine( a, b )
@@ -386,7 +386,7 @@ var o = rand.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@deno/mod.js';
+import arcsine from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-arcsine@v0.2.1-deno/mod.js';
 
 var seed;
 var rand;
